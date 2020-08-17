@@ -1,0 +1,3 @@
+a = kot
+b = pies
+a < b # oczywiscie wyjdzie error, ale nie bardzo rozumiem na czym to zadanie ma polegac. jak to przyrownac do siebie napisy? czym maja byc te zmienne, jesli zmienne powinny byc w postaci liczbowej? maja ta byc zmienne typu ilosci liter w slowie czyli kot to 3 a pies to 4? nie bardzo rozumiem idei tego zadania, a przeczytalam artykuly jak i czytalam ogolnie w internecie, ale nie rozumiem co ma byc przyrownywane do czego. chyba ze idea zadania jest taka ze pies jest lepszy od kota wiec pies to 1 a kot to 0? przepraszam, ale nie jestem osoba ktora sie chce udzielac na tym portalu w ktorym mamy pisac wiec juz wolalam oddac zle zadanie i porozmawiac o tym z mentorem bo zwyczajnie nie rozumiem idei tego zadania.
